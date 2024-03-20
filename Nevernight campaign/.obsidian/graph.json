@@ -15,49 +15,49 @@
       }
     },
     {
-      "query": "path:Dioses ",
+      "query": "path:\"CAMPAIGN INFO/Dioses\"  ",
       "color": {
         "a": 1,
         "rgb": 6342103
       }
     },
     {
-      "query": "path:NPC/Daimones  ",
+      "query": "path:\"CAMPAIGN INFO/NPC/Daimones\"  ",
       "color": {
         "a": 1,
         "rgb": 9968816
       }
     },
     {
-      "query": "path:\"LUGARES/IGLESIA ROJA/NPC/TITULOS\"  ",
+      "query": "path:\"CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/TITULOS\"  ",
       "color": {
         "a": 1,
         "rgb": 6172986
       }
     },
     {
-      "query": "path:\"LUGARES/IGLESIA ROJA/HABITACIONES\"  ",
+      "query": "path:\"CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES\"  ",
       "color": {
         "a": 1,
         "rgb": 11361494
       }
     },
     {
-      "query": "path:\"LUGARES/IGLESIA ROJA/NPC/MANOS\"  ",
+      "query": "path:\"CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/MANOS\"  ",
       "color": {
         "a": 1,
         "rgb": 8982544
       }
     },
     {
-      "query": "path:LUGARES/IGLESIA ROJA",
+      "query": "path:\"CAMPAIGN INFO/LUGARES/IGLESIA ROJA\"  ",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "path:NPC",
+      "query": "path:\"CAMPAIGN INFO/NPC\"  ",
       "color": {
         "a": 1,
         "rgb": 6053078
