@@ -1,0 +1,5 @@
+Una raza de arácnido nativa del país de Vaan. 
+
+Las hembras son tan negras como la veroscuridad, y poseen el instinto maternal más asombroso en la república animal. Una vez preñadas, las hembras construyen una despensa, la abastecen con cadáveres, y luego se sellan dentro. Si el nido es incendiado, ella arderá hasta morir en lugar de abandonarlo. Si es atacada por un depredador, morirá defendiendo su nidada. Pero tan feroz es su negativa a dejar a sus crías, que una vez que sus huevos son puestos, ella no se moverá ni siquiera para cazar. Y aquí radica la reclamación del manantial al título de madre más fiera en la República. Porque una vez que ha devorado todas las reservas dentro de su despensa, la hembra comienza a devorarse a sí misma. Arrancando sus extremidades de su tórax. Comiendo solo lo suficiente para sostener su vigilia. Desgarrando y masticando hasta que solo queda una pata, aferrada al tesoro de seda que se hincha debajo de ella. Y cuando finalmente eclosionan sus huevos, derramándose desde los hilos en los que los envolvió con tanto amor, participan, en ese mismo momento, de su primera comida.
+
+La madre que los engendró.

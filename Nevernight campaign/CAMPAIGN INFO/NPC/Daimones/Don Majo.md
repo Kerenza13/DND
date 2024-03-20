@@ -1,0 +1,1 @@
+Demonio de sombra con forma de gato, su nombre viene por parte de su forma de ser y de siempre hablar como si estuviera buscando pelea, siempre con segundas y retoricas.

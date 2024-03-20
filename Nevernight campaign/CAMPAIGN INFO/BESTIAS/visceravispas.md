@@ -1,0 +1,1 @@
+Como su nombre indica, son avispas del tamaño de un puño que acostumbran a plantar sus huevos en las vísceras de los cadáveres, normalmente recién muertos y aun calientes.

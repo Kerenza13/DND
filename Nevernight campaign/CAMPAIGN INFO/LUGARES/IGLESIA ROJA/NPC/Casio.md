@@ -1,0 +1,2 @@
+Actual [[Señor de las hojas]] de la [[Iglesia Roja]],  hombre de mediana edad con el mayor numero de muertes a su nombre en todo el imperio, encargado de bautizar a las nuevas [[hoja]] de la [[Iglesia Roja]] Persona con mas poder de autoridad en la [[Iglesia Roja]] después de [[Drusillia]]. Al final del curso de los estudiantes, Mar cara con su propia sangre solo a los que se convierten en  [[hoja]] con su propia sangre.
+Es un [[Tenebro]] al igual que [[Mia Corvere]], su acompañante es una loba hecha de sombras llamada [[Eclipse]].

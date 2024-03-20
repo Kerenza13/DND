@@ -1,0 +1,3 @@
+Hermana de [[Adonai]] y [[teurgos]] de carne de la [[Iglesia Roja]], su poder le permite manipular los huesos piel y tejido muscular entre otros de los seres vivos a costa de agrietar y destruir su propio cuerpo poco a poco, es la en cargada de mantener con vida a los estudiantes de la [[Iglesia Roja]], si estos reciben una herida mortal, ella y su hermano [[Adonai]] cierran la herida, o vuelven a unir a su cuerpo algún miembro amputado.
+Una de los dos últimos [[teurgos]] en el mundo.
+[[Niah]] conserva lo que necesita.

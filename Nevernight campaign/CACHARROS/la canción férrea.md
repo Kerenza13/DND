@@ -1,0 +1,1 @@
+Gran tambor de guerra unido a unas vigas de metal que se clavan en la arena, la vibración producida por este aullenta a los [[krakens de arena]].

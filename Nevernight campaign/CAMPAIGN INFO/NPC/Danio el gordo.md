@@ -1,0 +1,2 @@
+Propietario del [[viejo imperial]], una taberna en la que [[Mia Corvere]] y [[Tric]] comienzan su camino en busca de la [[Iglesia Roja]]
+Danio es la primera prueba que los acólitos deben superar para la encontrar [[Iglesia Roja]], este simplemente hace como si no supieran de lo que hablan siempre que sea relacionado a esta.

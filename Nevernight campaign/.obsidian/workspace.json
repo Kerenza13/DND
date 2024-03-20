@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "f4ec919edffdc96d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a73c3acc1843a358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dca981e418d95ca5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62edd58db5fc5f51",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3531cd2dc2f217a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6624955e57483cbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f04ef60f56a23692",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SHAHIID",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3981db550badb7c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c5a3ccc9f229bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "00eca68cc1080bb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "052ed6f18c95830d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8186f85d59290c92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fcbc5f4660a7696",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3aae9ebce8ff9637",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "dca981e418d95ca5",
+  "lastOpenFiles": [
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/SOPORTES/Aurelio.md",
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/TITULOS/Reverenda Madre.md",
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/Drusillia.md",
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES/Athenaeum.md",
+    "CAMPAIGN INFO/BESTIAS/gusanos de libros.md",
+    "SESION 1/Introducción.md",
+    "CAMPAIGN INFO/NPC/Mia Corvere.md",
+    "CAMPAIGN INFO/LUGARES/ZONAS DEL MAPAMUNDI/Los Susurriales.md",
+    "CAMPAIGN INFO/BESTIAS/polvos espectrales.md",
+    "CAMPAIGN INFO/LUGARES/ZONAS DEL MAPAMUNDI",
+    "CACHARROS/la canción férrea.md",
+    "CACHARROS",
+    "CAMPAIGN INFO/BESTIAS/visceravispas.md",
+    "CAMPAIGN INFO/BESTIAS/krakens de arena.md",
+    "CAMPAIGN INFO/BESTIAS",
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/Iglesia Roja.md",
+    "CAMPAIGN INFO/LUGARES",
+    "Lug",
+    "SESION 1",
+    "CAMPAIGN INFO",
+    "PLAYERS/Oven.md",
+    "PLAYERS/Mauricia Lucena.md",
+    "PLAYERS/Layla Wolff.md",
+    "PLAYERS/KuromuOni.md",
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/SHAHIIDS/Solis.md",
+    "teurgos.md",
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/MANOS/NAEV.md",
+    "PLAYERS"
+  ]
+}

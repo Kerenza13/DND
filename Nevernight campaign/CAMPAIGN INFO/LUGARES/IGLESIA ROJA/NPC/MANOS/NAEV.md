@@ -1,0 +1,1 @@
+Es una [[mano]] de la [[Iglesia Roja]] la cual ayuda a [[Mia Corvere]] a lo largo de la historia, estuvo enamorada de [[Adonai]] y fue lisiada por la hermana de este, [[Marielle]].

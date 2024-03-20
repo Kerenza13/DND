@@ -1,0 +1,1 @@
+Hermano de [[Ashlinn Järnheim]] y estudiante de la [[Iglesia Roja]] que murió a manos de [[Mia Corvere]] tras ser engañado y envenenarse a si mismo con lo que el pensaba que era el antídoto del veneno de la prueba final de [[Mataarañas]]

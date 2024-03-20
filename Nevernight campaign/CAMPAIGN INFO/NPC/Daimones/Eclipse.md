@@ -1,0 +1,1 @@
+Demonio de sombras con forma de loba tiene una enemistad/amistad con [[Don Majo]] formada tras la muerte de su amo [[Casio]] 
