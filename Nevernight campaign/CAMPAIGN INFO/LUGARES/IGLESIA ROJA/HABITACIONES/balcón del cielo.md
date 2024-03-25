@@ -1,0 +1,1 @@
+Zona done los estudiantes desayunan comen y cenan en la [[Iglesia Roja]], es una zona escarbada en un lado de la montaña que da paso a ver un enorme precipicio a cielo abierto. 
