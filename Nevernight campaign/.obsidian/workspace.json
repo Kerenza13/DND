@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "cd09e76e92537da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESIONS/S1/Introducción.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESIONS/S1/Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SESIONS/S1/Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SESIONS/S1/Introducción.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,16 +140,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cd09e76e92537da3",
+  "active": "dca981e418d95ca5",
   "lastOpenFiles": [
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES/Salón del cielo.md",
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/SOPORTES/Aelio.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/Iglesia Roja.md",
+    "SESIONS/S1/Introducción.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/IglesiaRoja mapa.png",
     "SESIONS/S2/Arco Iglesia Roja.md",
-    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES/balcón del cielo.md",
-    "SESIONS/S1/Introducción.md",
     "SESIONS/S2",
     "SESIONS/S1",
-    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/SOPORTES/Aurelio.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/TITULOS/Reverenda Madre.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/Drusillia.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES/Athenaeum.md",
