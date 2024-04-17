@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "ca699d429a5b2206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESIONS/S2/Arco Iglesia Roja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SHAHIID",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c5a3ccc9f229bc0",
@@ -96,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESIONS/S2/Arco Iglesia Roja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SESIONS/S2/Arco Iglesia Roja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SESIONS/S2/Arco Iglesia Roja.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,16 +141,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ca699d429a5b2206",
+  "active": "dca981e418d95ca5",
   "lastOpenFiles": [
+    "ITEMS/Armas/Ocaso.md",
+    "ITEMS/Armas/La Dragonslayer.md",
+    "SESIONS/S1/Introducción.md",
+    "ITEMS/Armas/La Bebecenizas.md",
+    "ITEMS/Armas",
+    "ITEMS/Apollo",
+    "PLAYERS/Layla Wolff.md",
     "PLAYERS/KuromuOni.md",
+    "PLAYERS/Oven.md",
+    "PLAYERS/Mauricia Lucena.md",
     "SESIONS/S2/Arco Iglesia Roja.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES/Athenaeum.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES/Salón de máscaras.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/HABITACIONES/Altar del cielo.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/SOPORTES/Aelio.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/Iglesia Roja.md",
-    "SESIONS/S1/Introducción.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/IglesiaRoja mapa.png",
     "SESIONS/S2",
     "SESIONS/S1",
@@ -177,21 +169,16 @@
     "CAMPAIGN INFO/LUGARES/ZONAS DEL MAPAMUNDI/Los Susurriales.md",
     "CAMPAIGN INFO/BESTIAS/polvos espectrales.md",
     "CAMPAIGN INFO/LUGARES/ZONAS DEL MAPAMUNDI",
-    "CACHARROS/la canción férrea.md",
-    "CACHARROS",
+    "ITEMS/Apollo/la canción férrea.md",
+    "ITEMS",
     "CAMPAIGN INFO/BESTIAS/visceravispas.md",
     "CAMPAIGN INFO/BESTIAS/krakens de arena.md",
     "CAMPAIGN INFO/BESTIAS",
     "CAMPAIGN INFO/LUGARES",
     "Lug",
     "SESIONS",
-    "CAMPAIGN INFO",
-    "PLAYERS/Oven.md",
-    "PLAYERS/Mauricia Lucena.md",
-    "PLAYERS/Layla Wolff.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/SHAHIIDS/Solis.md",
     "teurgos.md",
-    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/MANOS/NAEV.md",
-    "PLAYERS"
+    "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/NPC/MANOS/NAEV.md"
   ]
 }
