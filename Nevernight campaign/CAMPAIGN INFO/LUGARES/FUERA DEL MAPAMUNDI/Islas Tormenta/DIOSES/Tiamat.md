@@ -1,0 +1,2 @@
+#DIOSES
+En la antigua leyenda, [[Tiamat]] es descrita como una figura pentacéfala y cruel. Se le atribuye la creación de los dragones cromáticos, siendo responsable de dar vida a los temibles dragones rojos, azules, verdes, negros y blancos. Su enemistad con [[Bahamut]] ha sido la chispa que encendió la hostilidad entre los dragones metálicos y cromáticos.

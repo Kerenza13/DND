@@ -1,0 +1,1 @@
+El enano mas cabrón de todo el planeta y el maestro de la forja de las [[Islas Tormenta]]

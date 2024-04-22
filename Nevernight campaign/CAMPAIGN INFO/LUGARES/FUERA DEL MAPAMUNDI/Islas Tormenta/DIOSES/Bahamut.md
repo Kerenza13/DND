@@ -1,0 +1,2 @@
+#DIOSES
+[[Bahamut]], el noble Dragón de Platino, es reconocido por haber creado a los dragones metálicos: oro, plata, bronce, oropel y cobre. Su enemistad legendaria con [[Tiamat]] es el origen de la hostilidad entre los dragones metálicos y cromáticos. Parte fundamental de la leyenda de la creación de los dragones, [[Bahamut]] es una figura venerada en el folclore de los dragones.

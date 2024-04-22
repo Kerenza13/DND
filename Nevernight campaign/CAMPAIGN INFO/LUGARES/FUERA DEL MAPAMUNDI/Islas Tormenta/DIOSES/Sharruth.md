@@ -1,0 +1,2 @@
+#DIOSES
+[[Sharruth]], la dragona roja. Tras ser encarcelada por dragones metálicos bajo el fondo del mar, la leyenda sugiere que su esencia todavía perdura en la [[Islas Tormenta]] donde se rumorea que podría emerger nuevamente. Su historia ha dejado una marca eterna en la isla y atraído a otros dragones a lo largo de los siglos.

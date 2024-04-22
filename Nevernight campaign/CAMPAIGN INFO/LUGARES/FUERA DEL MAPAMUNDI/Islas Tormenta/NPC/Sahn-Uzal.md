@@ -1,0 +1,1 @@
+A simple vista no es mas que una armadura con patas pero su poder mágico podría hacer que el [[Retiro del Dragón]] se convirtiera en la tumba de estos. 

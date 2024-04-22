@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#PLAYERS  ",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "query": "path: ITEMS/Apollo  ",
+      "query": "path: \"CAMPAIGN INFO/ITEMS/Apollo\"  ",
       "color": {
         "a": 1,
         "rgb": 1908287
@@ -85,10 +85,31 @@
       }
     },
     {
-      "query": "path: \"CAMPAIGN INFO/LUGARES/ZONAS DEL MAPAMUNDI\"  ",
+      "query": "path: \"CAMPAIGN INFO/LUGARES/ZONAS DEL MAPAMUNDI\" ",
       "color": {
         "a": 1,
         "rgb": 14062428
+      }
+    },
+    {
+      "query": "path:\"CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/Lugares\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14062336
+      }
+    },
+    {
+      "query": "path:\"CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/NPC\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/DIOSES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6342103
       }
     }
   ],
@@ -103,5 +124,5 @@
   "linkStrength": 1,
   "linkDistance": 500,
   "scale": 0.11660891579457311,
-  "close": true
+  "close": false
 }
