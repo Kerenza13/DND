@@ -1,0 +1,1 @@
+Un lugar plagado de animales salvajes cuevas y dungeons aun no descubiertas, es la residencia de [[Tripah]] y [[GeGe]]
