@@ -11,6 +11,6 @@ Hace cien años, un dragón azul trató de hacerse con esta magia destructiva y 
 
 
 
-
-
-[[Bardin]] [[Sahn-Uzal]] [[Stabber Gotha]] [[Tripah]] [[Blackhood]] [[Dorothy]] [[GeGe]]
+Por el momento, estos son los residentes de dichas islas [[Runara]], [[Bardin]] el maestro de forja,  
+[[Sahn-Uzal]] el hechicero, [[Stabber Gotha]] el bibliotecario,  [[Tripah]] le mercenario,
+[[Blackhood]] el corsario y los hermanos monstruo [[Dorothy]] y [[GeGe]]. Sin contar una gran cantidad de kobolds.
