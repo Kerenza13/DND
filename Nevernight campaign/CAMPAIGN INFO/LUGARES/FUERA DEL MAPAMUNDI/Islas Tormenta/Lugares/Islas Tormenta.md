@@ -11,6 +11,12 @@ Hace cien años, un dragón azul trató de hacerse con esta magia destructiva y 
 
 
 
-Por el momento, estos son los residentes de dichas islas [[Runara]], [[Bardin]] el maestro de forja,  
-[[Sahn-Uzal]] el hechicero, [[Stabber Gotha]] el bibliotecario,  [[Tripah]] le mercenario,
-[[Blackhood]] el corsario y los hermanos monstruo [[Dorothy]] y [[GeGe]]. Sin contar una gran cantidad de kobolds.
+Por el momento, estos son los residentes de dichas islas:
+>[[Runara]] la dragona de cobre
+>[[Bardin]] el maestro de forja
+>[[Sahn-Uzal]] el hechicero 
+>[[Stabber Gotha]] el bibliotecario  
+>[[Tripah]] le mercenario
+>[[Blackhood]] el corsario  
+>[[Dorothy]] el kraken
+>[[GeGe]] el kobold de sangre
