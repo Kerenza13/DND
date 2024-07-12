@@ -1,3 +1,0 @@
-#ARMAS 
-Tanto la [[Dragonslayer]] como [[Krakenslayer]] fueron forjadas a partir de los restos de esta arma la cual se dice que nadie la creo, simplemente apareció un día hace miles y miles de años, de ella solo queda su empuñadura y parte de su hoja, las cuales revelan que en sus días de gloria, fue un mandoble. Cuentan las leyendas que con esta arma mataron a un dios, cuyo ultimo deseo fue que a donde sea que valla este arma, una calamidad descenderá sobre su ubicación para arrasarlo todo a su paso cada 100 años.
-Dicen que su ultimo paradero conocido, o al menos de sus remanentes es en las [[Islas Tormenta]].
