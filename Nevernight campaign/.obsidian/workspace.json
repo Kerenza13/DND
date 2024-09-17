@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "3928c408e993b613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESIONS/S4/La verdad tras la mascara (Parte 1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESIONS/S4/La verdad tras la mascara (Parte 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SESIONS/S4/La verdad tras la mascara (Parte 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SESIONS/S4/La verdad tras la mascara (Parte 1).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,8 +140,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3928c408e993b613",
+  "active": "dca981e418d95ca5",
   "lastOpenFiles": [
+    "CAMPAIGN INFO/ITEMS/Armas/GRAM, Divisora de Constelaciones.md",
     "SESIONS/S4/La verdad tras la mascara (Parte 1).md",
     "PLAYERS/Mauricia Lucena.md",
     "PLAYERS/Layla Wolff.md",
@@ -174,7 +158,6 @@
     "CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/Lugares/Retiro del Dragón.md",
     "CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/Lugares/Islas Tormenta.md",
     "CAMPAIGN INFO/LUGARES/IGLESIA ROJA/Iglesia Roja.md",
-    "CAMPAIGN INFO/ITEMS/Armas/GRAM, La Divisora de Constelaciones.md",
     "CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/NPC/Stabber Gotha.md",
     "CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/NPC/Sahn-Uzal.md",
     "CAMPAIGN INFO/ITEMS/Armas/Ocaso.md",
