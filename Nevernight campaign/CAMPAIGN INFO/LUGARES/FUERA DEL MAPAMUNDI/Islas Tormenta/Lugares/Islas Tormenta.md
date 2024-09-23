@@ -16,7 +16,7 @@ Por el momento, estos son los residentes de dichas islas:
 >[[Bardin]] el maestro de forja
 >[[Sahn-Uzal]] el hechicero 
 >[[Stabber Gotha]] el bibliotecario  
->[[Tripah]] le mercenario
+>[[CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/NPC/Tripah]] le mercenario
 >[[Blackhood]] el corsario  
 >[[Dorothy]] el kraken
 >[[GeGe]] el kobold de sangre
