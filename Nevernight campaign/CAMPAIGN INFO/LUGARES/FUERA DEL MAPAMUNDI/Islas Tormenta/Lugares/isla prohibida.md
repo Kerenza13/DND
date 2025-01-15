@@ -1,1 +1,0 @@
-Un lugar plagado de animales salvajes altamente agresivos, cuevas y dungeons aun no descubiertas, es la residencia de [[CAMPAIGN INFO/LUGARES/FUERA DEL MAPAMUNDI/Islas Tormenta/NPC/Tripah]] y [[GeGe]].

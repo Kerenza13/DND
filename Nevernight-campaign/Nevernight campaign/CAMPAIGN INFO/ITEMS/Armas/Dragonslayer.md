@@ -1,0 +1,3 @@
+#ARMAS
+Llamar a esto una Gran Espada es como llamar a un mamut a simple hormiga, una masa sin sentido de un metal desconocido, creada para matar monstruos que no existen y contra los que nadie puede luchar. Pero una vez existieron, y por ello, un humano capaz de empuñar esta arma. [[Tripah]], otra de las innumerables legendas de las [[Islas Tormenta]] que con sus propias manos mato a un Dracoliche que podría ser comparado a un Dios.
+Nadie sabe donde esta el ahora ni tampoco de la ubicación donde su arma, [[Dragonslayer]] descansará por el resto d la eternidad, pero una cosa es segura, y es que tanto el portador como esta, existieron.

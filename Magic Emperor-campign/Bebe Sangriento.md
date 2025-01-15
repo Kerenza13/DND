@@ -1,0 +1,3 @@
+#TECNICAS
+Una de las técnicas del [[Libro de los Nueve Secretos]]
+Tras la creación de uno, este se vuelve el corazón de aquel que lo ha creado por lo que cualquier ataque directo a este o a uno de sus clones los cuales pueden ser usados para espiar desde la distancia o atacar, es mortal para su dueño, pero brinda la posibilidad de alimentar al bebe sangriento con sangre ya sea propia o de otro  ser vivo para hacerse mas fuerte de forma progresiva.

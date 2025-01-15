@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9542e7d4d2d7a324",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc117190ecb01cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6dffb6adb392818",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78ce0be9c259abae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9186b36a9f604c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e99be265120d08f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "cfd68712e9cb6c8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e04860f34609a252",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bf8eda5cdd8f8fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d724a5ae242f1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04c0534d40c85ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "846e245766a8a5e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "10cc3331db7c98c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6e0329fd47fb1d62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b6dffb6adb392818",
+  "lastOpenFiles": [
+    "Rueda Lunar.md",
+    "You Wanshan.md",
+    "Tianyu.md",
+    "Pabellón Qianlong.md",
+    "Ciudad Fenglin.md",
+    "Long Yifei.md",
+    "Cueva Quanyan.md",
+    "Monte Bingyu.md",
+    "Cañón Luolei.md",
+    "Lei Yuting.md",
+    "Lei Yutinan.md",
+    "Yang Ming.md",
+    "Xiao Cui.md",
+    "Ciudad Louye.md",
+    "Familia lei.md",
+    "Long Wu.md",
+    "Long San.md",
+    "Píldora de Recuperación.md",
+    "Sangre de hada.md",
+    "Bebe Sangriento.md",
+    "Familia Cai.md",
+    "Luo Yunhai.md",
+    "Luo Yun-Chang.md",
+    "Luo Zhennan.md",
+    "Matriz Panlong.md",
+    "Shen Yan Long Jiu.md"
+  ]
+}
