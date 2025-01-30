@@ -1,0 +1,172 @@
+{
+  "class": {
+    "name": "Fighter",
+    "hit Points": {
+      "hitDie": "D10",
+      "level 1": "10 + Constitution",
+      "perLevel": "D10 + Constitution"
+    },
+    "proficiencies": {
+      "saving Throws": ["Strength", "Constitution"],
+      "skills": [
+        "Acrobatics",
+        "Animal Handling",
+        "Athletics",
+        "History",
+        "Insight",
+        "Intimidation",
+        "Persuasion",
+        "Perception",
+        "Survival"
+      ],
+      "weapons": ["Simple", "Martial"],
+      "armors": ["Light", "Medium", "Heavy", "Shields"]
+    }
+  },
+  "starting equipment": {
+    "A": {
+      "armor": {
+        "type": "Chain Mail",
+        "stats": {
+          "armorClass": 16,
+          "weight": 55,
+          "cost": "75 GP",
+          "stealth Disadvantage": true
+        }
+      },
+      "weapons": [
+        {
+          "type": "Greatsword",
+          "damage": "2d6 slashing",
+          "properties": ["Heavy", "Two-Handed"],
+          "weight": 6,
+          "cost": "50 GP"
+        },
+        {
+          "type": "Flail",
+          "damage": "1d8 bludgeoning",
+          "properties": ["None"],
+          "weight": 2,
+          "cost": "10 GP"
+        },
+        {
+          "type": "Javelin",
+          "quantity": 8,
+          "damage": "1d6 piercing",
+          "properties": ["Thrown", "Range (30/120)"],
+          "weight": 2,
+          "cost": "5 SP each"
+        }
+      ],
+      "gear": {
+        "type": "Dungeoneer's Pack",
+        "contents": [
+          "Backpack",
+          "Crowbar",
+          "Hammer",
+          "Piton (10)",
+          "Torch (10)",
+          "Rations (10 days)",
+          "Waterskin",
+          "50 feet of Hemp Rope"
+        ],
+        "weight": 61.5,
+        "cost": "12 GP"
+      },
+      "currency": {
+        "gold Pieces": 4
+      }
+    },
+    "B": {
+      "armor": {
+        "type": "Studded Leather Armor",
+        "stats": {
+          "armorClass": 12,
+          "weight": 13,
+          "cost": "45 GP",
+          "stealth Disadvantage": false
+        }
+      },
+      "weapons": [
+        {
+          "type": "Scimitar",
+          "damage": "1d6 slashing",
+          "properties": ["Finesse", "Light"],
+          "weight": 3,
+          "cost": "25 GP"
+        },
+        {
+          "type": "Shortsword",
+          "damage": "1d6 piercing",
+          "properties": ["Finesse", "Light"],
+          "weight": 2,
+          "cost": "10 GP"
+        },
+        {
+          "type": "Longbow",
+          "damage": "1d8 piercing",
+          "properties": ["Heavy", "Range (150/600)", "Two-Handed"],
+          "weight": 2,
+          "cost": "50 GP"
+        }
+      ],
+      "ammunition": {
+        "type": "Arrows",
+        "quantity": 20,
+        "weight": 1,
+        "cost": "1 GP for 20"
+      },
+      "gear": {
+        "type": "Dungeoneer's Pack",
+        "contents": [
+          "Backpack",
+          "Crowbar",
+          "Hammer",
+          "Piton (10)",
+          "Torch (10)",
+          "Rations (10 days)",
+          "Waterskin",
+          "50 feet of Hemp Rope"
+        ],
+        "weight": 61.5,
+        "cost": "12 GP"
+      },
+      "container": {
+        "type": "Quiver",
+        "capacity": "20 arrows",
+        "weight": 1,
+        "cost": "1 GP"
+      },
+      "currency": {
+        "gold Pieces": 11
+      }
+    },
+    "C": {
+      "currency": {
+        "gold Pieces": 155
+      }
+    }
+  },
+  "levelProgression": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {}
+  }
+}
