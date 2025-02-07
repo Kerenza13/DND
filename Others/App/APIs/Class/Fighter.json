@@ -2,13 +2,11 @@
   "fighter_class": {
     "name": "Fighter",
     "description": "Experto en armas y armaduras, domina diversas técnicas de combate y se especializa en distintos estilos de lucha.",
-
     "hitPoints": {
       "hitDie": "D10",
       "level1": "10 + Constitution",
       "perLevel": "D10 + Constitution"
     },
-
     "proficiencies": {
       "savingThrows": ["Strength", "Constitution"],
       "skills": [
@@ -25,7 +23,6 @@
       "weapons": ["Simple", "Martial"],
       "armors": ["Light", "Medium", "Heavy", "Shields"]
     },
-
     "starting_equipment": {
       "A": {
         "armor": {
@@ -150,55 +147,199 @@
         }
       }
     },
-
     "levelProgression": {
-      "1": {
-        "FigtingStyleFeat": {
-          "Archery": "You gain a +2 bonus attack rolls you make with Ranged weapons",
-
-          "Blind Fighting": "You have Blindsight with a range of 10 feet.",
-
-          "Defense": "While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.",
-
-          "Dueling": "When you're holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon",
-
-          "Great Weapon Fighting": "When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.",
-
-          "Interception": "When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a Reaction to reduce the damage dealt to the target by 1d10 plus your Proficiency Bonus. You must be holding a Shield or a Simple or Martial weapon to use this Reaction.",
-
-          "Protection": "When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a Reaction to interpose your Shield if you're holding one. You impose Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.",
-
-          "Thrown Weapon Fighting": "When you hit with a ranged attack roll using a weapon that has the Thrown property, you gain a +2 bonus to the damage roll.",
-
-          "Two-Weapon Fighting": "When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.",
-
-          "Unarmed Fighting": "When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8. At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you."
+      "level": {
+        "1": {
+          "FightingStyleFeat": {
+            "Archery": "+2 to ranged attack rolls",
+            "Blind Fighting": "10ft blindsight",
+            "Defense": "+1 AC while armored",
+            "Dueling": "+2 damage with single one-handed weapon",
+            "Great Weapon Fighting": "Reroll 1-2 damage dice (two-handed)",
+            "Interception": "Reduce damage to ally within 5ft",
+            "Protection": "Impose disadvantage with shield",
+            "Thrown Weapon Fighting": "+2 damage with thrown weapons",
+            "Two-Weapon Fighting": "Add ability mod to off-hand attack",
+            "Unarmed Fighting": "1d6/1d8 unarmed damage"
+          },
+          "Second_Wind": {
+            "description": "Regain 1d10 + level HP (Bonus Action)",
+            "uses": 2,
+            "recharge": ["ShortRest", "LongRest"]
+          },
+          "WeaponMastery": {
+            "choices": 3,
+            "properties": {
+              "Push": "Shove target 10ft",
+              "Slow": "Reduce speed by 10ft",
+              "Sap": "Disadvantage on next attack",
+              "Topple": "Knock prone on failed save",
+              "Graze": "Deal damage on miss",
+              "Flex": "Switch damage type",
+              "Nick": "Bonus light weapon attack",
+              "Stagger": "Prevent reactions",
+              "Vex": "Gain advantage on next attack",
+              "Hook": "Disarm opponent"
+            }
+          }
         },
-        "Second_Wind": {
-          "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.",
-          "usage": 2
+        "2": {
+          "ActionSurge": {
+            "description": "Gain one additional action",
+            "uses": 1,
+            "scaling": {
+              "17": 2
+            }
+          },
+          "TacticalMind": {
+            "description": "Add 1d10 to failed ability checks using Second Wind"
+          }
+        },
+        "3": {
+          "SubclassSelection": {
+            "description": "Choose your martial archetype",
+            "options": [
+              "Champion",
+              "Battle Master",
+              "Eldritch Knight",
+              "Psi Warrior"
+            ]
+          }
+        },
+        "4": {
+          "AbilityScoreImprovement": {
+            "description": "+2 to one stat or +1 to two stats"
+          }
+        },
+        "5": {
+          "ExtraAttack": {
+            "count": 2,
+            "description": "Attack twice when taking the Attack action"
+          },
+          "TacticalShift": {
+            "description": "Move half speed when using Second Wind"
+          }
+        },
+        "6": {
+          "AbilityScoreImprovement": {
+            "description": "+2 to one stat or +1 to two stats"
+          }
+        },
+        "7": {
+          "SubclassFeature": {
+            "description": "Gain subclass-specific ability"
+          }
+        },
+        "8": {
+          "AbilityScoreImprovement": {
+            "description": "+2 to one stat or +1 to two stats"
+          }
+        },
+        "9": {
+          "Indomitable": {
+            "description": "Reroll failed saving throw",
+            "uses": 1,
+            "scaling": {
+              "13": 2,
+              "17": 3
+            }
+          },
+          "TacticalMaster": {
+            "description": "Swap weapon mastery properties"
+          }
+        },
+        "10": {
+          "SubclassFeature": {
+            "description": "Gain subclass-specific ability"
+          }
+        },
+        "11": {
+          "ExtraAttack": {
+            "count": 3,
+            "description": "Attack three times when taking the Attack action"
+          }
+        },
+        "12": {
+          "AbilityScoreImprovement": {
+            "description": "+2 to one stat or +1 to two stats"
+          }
+        },
+        "13": {
+          "Indomitable": {
+            "description": "Reroll failed saving throw",
+            "uses": 2
+          },
+          "StudiedAttacks": {
+            "description": "Gain advantage after missing"
+          }
+        },
+        "14": {
+          "AbilityScoreImprovement": {
+            "description": "+2 to one stat or +1 to two stats"
+          }
+        },
+        "15": {
+          "SubclassFeature": {
+            "description": "Gain subclass-specific ability"
+          }
+        },
+        "16": {
+          "AbilityScoreImprovement": {
+            "description": "+2 to one stat or +1 to two stats"
+          }
+        },
+        "17": {
+          "ActionSurge": {
+            "uses": 2,
+            "description": "Two uses between rests"
+          },
+          "Indomitable": {
+            "uses": 3,
+            "description": "Three rerolls per long rest"
+          }
+        },
+        "18": {
+          "SubclassFeature": {
+            "description": "Gain subclass-specific ability"
+          }
+        },
+        "19": {
+          "EpicBoon": {
+            "description": "Choose an epic boon feat (Prerequisite: Level 19+)",
+            "options": {
+              "CombatProwess": {
+                "abilityScore": "+1 any (max 30)",
+                "peerlessAim": "Turn miss into hit 1/turn"
+              },
+              "DimensionalTravel": {
+                "abilityScore": "+1 any (max 30)",
+                "blinkSteps": "Teleport 30ft after action"
+              },
+              "EnergyResistance": {
+                "abilityScore": "+1 any (max 30)",
+                "resistances": "Choose 2 damage types",
+                "redirection": "Reflect 2d12 damage"
+              },
+              "Fortitude": {
+                "abilityScore": "+1 any (max 30)",
+                "healthBoost": "+40 max HP",
+                "healingBonus": "+CON mod healing"
+              },
+              "Recovery": {
+                "abilityScore": "+1 any (max 30)",
+                "lastStand": "Survive KO 1/day",
+                "vitalityPool": "10d10 healing pool"
+              }
+            }
+          }
+        },
+        "20": {
+          "ExtraAttack": {
+            "count": 4,
+            "description": "Attack four times when taking the Attack action"
+          }
         }
       },
-      "2": {},
-      "3": {},
-      "4": {},
-      "5": {},
-      "6": {},
-      "7": {},
-      "8": {},
-      "9": {},
-      "10": {},
-      "11": {},
-      "12": {},
-      "13": {},
-      "14": {},
-      "15": {},
-      "16": {},
-      "17": {},
-      "18": {},
-      "19": {},
-      "20": {},
-
       "subclasses": {
         "Champion_subclass": {
           "name": "Champion",
@@ -210,7 +351,6 @@
             "18": ["Survivor"]
           }
         },
-
         "Battle_Master_subclass": {
           "name": "Battle Master",
           "description": "Estratega en el campo de batalla que usa dados especiales para maniobras tácticas y control del combate.",
@@ -222,7 +362,6 @@
             "18": ["Ultimate Combat Superiority"]
           }
         },
-
         "Eldritch_Knight_subclass": {
           "name": "Eldritch Knight",
           "description": "Guerrero arcano que fusiona el dominio de las armas con la magia, combinando ataques letales y defensas mágicas.",
@@ -234,7 +373,6 @@
             "18": ["Improved War Magic"]
           }
         },
-
         "Psi_Warrior_subclass": {
           "name": "Psi Warrior",
           "description": "Lucha usando poder psiónico para potenciar sus ataques, proteger aliados y desestabilizar a los enemigos.",
