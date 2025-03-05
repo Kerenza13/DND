@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bf8eda5cdd8f8fe7",
@@ -158,6 +159,8 @@
   },
   "active": "b6dffb6adb392818",
   "lastOpenFiles": [
+    "Lei Yutinan.md",
+    "Lei Yuting.md",
     "Píldora de Recuperación.md",
     "Rueda Lunar.md",
     "You Wanshan.md",
@@ -168,8 +171,6 @@
     "Cueva Quanyan.md",
     "Monte Bingyu.md",
     "Cañón Luolei.md",
-    "Lei Yuting.md",
-    "Lei Yutinan.md",
     "Yang Ming.md",
     "Xiao Cui.md",
     "Ciudad Louye.md",
