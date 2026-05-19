@@ -1,0 +1,2 @@
+#DIOSES #OUTERS
+Born from [[THE NAMELESS MIST]] 

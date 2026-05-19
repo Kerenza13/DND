@@ -38,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -75,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "bf8eda5cdd8f8fe7",
@@ -148,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -158,13 +160,21 @@
   },
   "active": "b6dffb6adb392818",
   "lastOpenFiles": [
+    "Libro de los Nueve Secretos.md",
+    "Sin título.base",
+    "Sun Guanjia.md",
+    "Sin título 2.base",
+    "Sin título 1.base",
+    "You Wanshan.md",
+    "Familia Luo.md",
+    "Zhuo Fan.md",
+    "Zhou Yifan.md",
+    "Pabellón Qianlong.md",
+    "Píldora de Recuperación.md",
     "Lei Yutinan.md",
     "Lei Yuting.md",
-    "Píldora de Recuperación.md",
     "Rueda Lunar.md",
-    "You Wanshan.md",
     "Tianyu.md",
-    "Pabellón Qianlong.md",
     "Ciudad Fenglin.md",
     "Long Yifei.md",
     "Cueva Quanyan.md",
@@ -177,12 +187,6 @@
     "Long Wu.md",
     "Long San.md",
     "Sangre de hada.md",
-    "Bebe Sangriento.md",
-    "Familia Cai.md",
-    "Luo Yunhai.md",
-    "Luo Yun-Chang.md",
-    "Luo Zhennan.md",
-    "Matriz Panlong.md",
-    "Shen Yan Long Jiu.md"
+    "Bebe Sangriento.md"
   ]
 }

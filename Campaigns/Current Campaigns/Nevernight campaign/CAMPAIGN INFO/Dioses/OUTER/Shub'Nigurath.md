@@ -1,0 +1,2 @@
+#DIOSES #OUTERS #OUTERS
+Born from [[DARKNESS ]]

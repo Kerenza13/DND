@@ -1,0 +1,2 @@
+#DIOSES #KnightOfCthullu #OUTERS
+[[Cthullu]]
